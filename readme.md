@@ -1,3 +1,8 @@
+Thursday 5th December 2019, part2.
+===========================
+I wasted 20 minutes on part of AdventOfCode (https://github.com/SoylentGraham/AdventOfCode2019) because I was re-using the memory I had already modified in part1. (I run both 1 & 2 in every execution). This is rarely an issue in javascript, (hurrah for scopes) but every so often...
+
+
 Thursday 5th December 2019
 ===========================
 This afternoon I've been trying to work out why my c# mp4 decoder (PopCodecs) is failing with a fragmented mp4 created from ffmpeg (`ffmpeg -i cat_baseline.mp4 -c copy -movflags frag_keyframe+empty_moov cat_baseline_fragment.mp4`) but has been working well when streaming from hololens.
