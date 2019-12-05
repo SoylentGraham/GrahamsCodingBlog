@@ -1,3 +1,8 @@
+Wednesday 4th December 2019
+========================
+Hololens 2 is great. Tried at VRLO.
+
+
 Monday 2nd December 2019
 ===========================
 https://twitter.com/soylentgraham/status/1201472609566810112
