@@ -1,3 +1,8 @@
+Monday 9th December 2019
+==========================
+Messing with Openvr Overlays; (Making a game-universal portal/sync system between other devices and VR)
+TIL overlay planes are backface culled.
+
 Thursday 5th December 2019, part2.
 ===========================
 I wasted 20 minutes on part of AdventOfCode (https://github.com/SoylentGraham/AdventOfCode2019) because I was re-using the memory I had already modified in part1. (I run both 1 & 2 in every execution). This is rarely an issue in javascript, (hurrah for scopes) but every so often...
